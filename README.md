@@ -84,3 +84,7 @@ O repositório é local na branch `main`. **Não configure um remoto nem execute
 Projeto de fãs independente, sem afiliação oficial com os titulares de Berserk. Referência técnica: [documentação do Next.js App Router](https://nextjs.org/docs/app/getting-started/installation).
 
 Naturezas, núcleos históricos e armas/poderes aceitam múltiplos valores: verde para conjuntos iguais, laranja para sobreposição parcial, vermelho para nenhuma coincidência. Gênero e arco mantêm valor único.
+
+## Publicação no Hamadle
+
+Este repositório publica o projeto Vercel berserk-dle. O portal hamadle encaminha /berserk para esse projeto; alterações no jogo precisam ser publicadas aqui. O next.config.ts mantém basePath /berserk, inclusive para imagens e testes de produção.
